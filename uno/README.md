@@ -2,6 +2,8 @@
 
 UNOカードの認識モデル
 
+![サンプル](pictures/uno.jpg "サンプル")
+
 ## データセット
 Uno Cards Dataset (https://public.roboflow.com/object-detection/uno-cards)  
 
